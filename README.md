@@ -1,2 +1,2 @@
 # Parcheesi
-Board game.
+Parcheesi board game.
